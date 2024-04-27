@@ -12,13 +12,13 @@ Instead of 0.5.5 version, 0.5.17 version was used to compile <br>
 
 <br>
 
-!['Compiled 1'](./Images/Compiled_1.png)
+!['Compiled 2'](./Images/Compiled_2.png)
 This is the successfully compiled smart contract of 'KaseiCoinCrowdsale'. <br>
 Instead of 0.5.5 version, 0.5.17 version was used to compile <br>
 
 <br>
 
-!['Compiled 1'](./Images/Compiled_1.png)
+!['Compiled 3'](./Images/Compiled_3.png)
 This is the successfully compiled smart contract of 'KaseiCoinCrowdsaleDeployer' <br>
 Instead of 0.5.5 version, 0.5.17 version was used to compile <br>
 
