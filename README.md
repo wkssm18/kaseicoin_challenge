@@ -4,6 +4,28 @@
 
 - A blockchain coin called 'Kasei coin' was created using Remix IDE, MetaMask, and Ganache.
 
+## Evaluation evidence (compiled contracts)
+
+!['Compiled 1'](./Images/Compiled_1.png)
+This is the successfully compiled smart contract of 'KaseiCoin'. <br>
+Instead of 0.5.5 version, 0.5.17 version was used to compile <br>
+
+<br>
+
+!['Compiled 1'](./Images/Compiled_1.png)
+This is the successfully compiled smart contract of 'KaseiCoinCrowdsale'. <br>
+Instead of 0.5.5 version, 0.5.17 version was used to compile <br>
+
+<br>
+
+!['Compiled 1'](./Images/Compiled_1.png)
+This is the successfully compiled smart contract of 'KaseiCoinCrowdsaleDeployer' <br>
+Instead of 0.5.5 version, 0.5.17 version was used to compile <br>
+
+
+<br>
+<br>
+
 ## Demonstration of functionality
 
 !['Image 1'](./Images/Image_1.png)
