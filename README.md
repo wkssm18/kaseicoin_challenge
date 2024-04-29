@@ -3,6 +3,8 @@
 ## Overview
 
 - A blockchain coin called 'Kasei coin' was created using Remix IDE, MetaMask, and Ganache.
+- 'KaseiCoinCrowdsale.sol' file has all the requirements for the challenge, and 'KaseiCoinCrowdsale_with_optional_features.sol' has extra optional functions using OpenZepplin's 'CappedCrowdsale', 'TimedCrowdsale', and RefundablePostDeliveryCrowdsale'.
+- In the evaluation evidence and demonstration of functionality, only the 'KaseiCoinCrowdsale.sol' was used.
 
 ## Evaluation evidence (compiled contracts)
 
